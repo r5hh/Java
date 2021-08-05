@@ -12,4 +12,4 @@ jave programmes I experiences
 - [guessbirth.java](https://github.com/r5hh/Java/blob/master/Week%201/guessbirth.java)
 
 ## Week 2
-- [Subtraction.java]https://github.com/r5hh/Java-course/blob/master/Week%202/Subtraction.java
+- [Subtraction.java](https://github.com/r5hh/Java-course/blob/master/Week%202/Subtraction.java)
