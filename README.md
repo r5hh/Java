@@ -13,4 +13,7 @@ jave programmes I experiences
 
 ## Week 2
 - [Subtraction.java](https://github.com/r5hh/Java-course/blob/master/Week%202/Subtraction.java)
-
+- [GreatestCommonDivisor.java](https://github.com/r5hh/Java-course/blob/master/Week%202/GreatestCommonDivisor.java)
+- [TestMultiplicationTable.java](https://github.com/r5hh/Java-course/blob/master/Week%202/TestMultiplicationTable.java)
+- [TestSum.java](https://github.com/r5hh/Java-course/blob/master/Week%202/TestSum.java)
+- [TotalValue.java](https://github.com/r5hh/Java-course/blob/master/Week%202/TotalValue.java)
